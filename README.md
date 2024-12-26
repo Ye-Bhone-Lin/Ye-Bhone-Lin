@@ -1,6 +1,6 @@
-#  About Me:
-A passionate AI Engineer.
+#  A passionate AI Engineer
 
+🖥️ Working as an AI Engineer since 2022
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ye_bhone_lin) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ye-bhone-lin-021195267/) 
