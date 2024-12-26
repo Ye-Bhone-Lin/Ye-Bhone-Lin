@@ -1,5 +1,5 @@
 #  About Me:
-I am currently working on Simbolo and I am serving as an AI Engineer.
+A passionate AI Engineer.
 
 
 ## 🌐 Socials:
