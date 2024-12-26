@@ -15,9 +15,6 @@ A passionate AI Engineer.
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Ye-Bhone-Lin&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-### ✍️ Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
 ---
 [![](https://visitcount.itsvg.in/api?id=Ye-Bhone-Lin&icon=0&color=0)](https://visitcount.itsvg.in)
 
