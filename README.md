@@ -1,10 +1,3 @@
-#  A passionate AI Engineer
-
-🚀 **AI Engineer | Artificial Intelligence Enthusiast | Open-Source Contributor**  
-🖥️ Working as an **AI Engineer** since 2022, I specialize in **machine learning, deep learning, computer vision, natural language processing, chatAI and AI-driven solutions**.  
-💡 Passionate about **cutting-edge AI research**, **automation**, and **building intelligent systems**.  
-📖 Constantly learning and sharing insights on AI, software engineering, and emerging technologies.  
-
 # I'm Ye Bhone Lin! A passionate AI Engineer
 
 I'm an AI Engineer based in Myanmar 🇲🇲, passionate about solving real-world problems using Artificial Intelligence. I specialize in **Natural Language Processing (NLP)**, **Computer Vision**, and **Speech Recognition**. I enjoy building intelligent systems that are both impactful and accessible.
