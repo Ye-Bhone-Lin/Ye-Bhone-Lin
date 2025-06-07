@@ -25,7 +25,7 @@ I'm an AI Engineer based in Myanmar 🇲🇲, passionate about solving real-worl
 - 🛠️ Tools: Git, Docker
 
 ## 🌐 Connect with Me
-### Let's connect on 🌐 [[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ye-bhone-lin-021195267/) ](https://www.linkedin.com/in/ye-bhone-lin-ai/)
+### Let's connect on 🌐 https://www.linkedin.com/in/ye-bhone-lin-ai/
 ### Email: yebhonelin10@gmail.com
 
 ### I write Medium articles you can read in that. [Medium](https://medium.com/@yebhonelin10)  
