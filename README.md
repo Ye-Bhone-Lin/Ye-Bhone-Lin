@@ -5,6 +5,6 @@
 💡 Passionate about **cutting-edge AI research**, **automation**, and **building intelligent systems**.  
 📖 Constantly learning and sharing insights on AI, software engineering, and emerging technologies.  
 
-# Let's connect on 🌐 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ye-bhone-lin-021195267/) 
+# Let's connect on 🌐 [[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ye-bhone-lin-021195267/) ](https://www.linkedin.com/in/ye-bhone-lin-ai/)
 ### I write Medium articles you can read in that. [Medium](https://medium.com/@yebhonelin10)  
 
