@@ -22,7 +22,6 @@ I'm an AI Engineer based in Myanmar 🇲🇲, passionate about solving real-worl
 ### Email: yebhonelin10@gmail.com
 
 ### I write Medium articles you can read in that. [Medium](https://medium.com/@yebhonelin10)  
-
 ---
 
 > *"Building Myanmar’s AI future — one model at a time."*
