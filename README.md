@@ -33,19 +33,20 @@ Welcome to my portfolio! I’m passionate about solving real-world problems usin
 
 | #  | Project Name            | Description                                         | Technologies                              | Links                                                                                   |
 |----|------------------------|-----------------------------------------------------|-------------------------------------------|-----------------------------------------------------------------------------------------|
-| 1  | GitGuard AI            | IDE plugin to prevent API key leaks using LLMs      | Python, Hugging Face, LangChain, NovitaAI| [Demo](https://lnkd.in/g9WTtR3H) / [Try Beta](https://lnkd.in/g9V9beZy)                 |
+| 1  | GitGuard AI            | IDE plugin to prevent API key leaks using LLMs      | Python, Hugging Face, LangChain, NovitaAI| [Demo](https://v0-gitguard-ai-landing-page.vercel.app/) / [Try Beta](https://www.youtube.com/watch?v=uS048Hjot6c)                 |
 | 2  | Simbolo Student Assistant | Student info assistant using Streamlit + RAG      | Streamlit, Elasticsearch, Groq            | [Live Demo](https://kkxtgvxcmmdjjsfwenyxgp.streamlit.app)                               |
 | 3  | Myanmar Weather News   | Burmese weather + earthquake updates                 | Streamlit, LangChain, Groq, Folium        | [Live](https://myanmar-weather-news.streamlit.app)                                     |
 | 4  | Burmese OCR            | OCR model for Burmese printed text                    | Deep Learning, OpenCV                      | —                                                                                       |
-| 5  | Telegram Bot Deployment| Telegram chatbot using RAG + LangChain                | LangChain, Railway, GROQ API               | —                                                                                       |
+| 5  | Telegram Bot Deployment| Telegram chatbot using RAG + LangChain                | LangChain, Railway, GROQ API               | @simbolo_bot in telegram and chatting with the bot                                                                                      |
 | 6  | Discord PDF Assistant  | Discord bot for summarizing & Q&A on PDFs             | Python, LangChain                         | [Invite Bot](https://discord.com/oauth2/authorize?client_id=1358443923802030190)         |
-| 7  | Repair Cost Estimation | Car damage detection with cost estimation             | YOLO, Streamlit                           | —                                                                                       |
+| 7  | Repair Cost Estimation | Car damage detection with cost estimation             | YOLO, Streamlit                           | [Workflow](https://github.com/Ye-Bhone-Lin/Repair_Cost_Estimation_Based_On_Car_Damage)                                                                                       |
 | 8  | Roman ↔ Burmese Tool   | Converts Burmese text to Roman & vice versa           | Python, Unicode, Syllable Tokenization    | —                                                                                       |
-| 9  | AKyanPay AI Backend    | Educational APIs for quizzes, chat, code testing      | FastAPI, LangChain, Groq                  | Multiple Endpoints                                                                       |
-| 10 | Hotel Booking System   | Query hotel database using natural language           | PostgreSQL, FastAPI, LangChain            | Docker: `yebhonelin102273442/hotel-booking`                                             |
-| 11 | SEA Weather + Traffic  | ML model for heatwave forecasting & congestion        | Python, Streamlit, ML                     | —                                                                                       |
-| 12 | Karachi Weather Prediction | ML for weather forecasting in Karachi               | Python, ML, Streamlit                     | —                                                                                       |
+| 9  | AKyanPay AI Backend    | Educational APIs for quizzes, chat, code testing      | FastAPI, LangChain, Groq                  | [Live Demo](https://akyanpay.vercel.app/)                                                                      |
+| 10 | Hotel Booking System   | Query hotel database using natural language           | PostgreSQL, FastAPI, LangChain            | [Live Demo](https://glittery-klepon-5051b1.netlify.app/)                                           |
+| 11 | SEA Weather + Traffic  | ML model for heatwave forecasting & congestion        | Python, Streamlit, ML                     | [Live Demo](https://myanmar-weather-forecasting.streamlit.app/)                                                                                     |
+| 12 | Karachi Weather Prediction | ML for weather forecasting in Karachi               | Python, ML, Streamlit                     | [Link](https://github.com/OmdenaAI/karachi-pakistan-weather-prediction)                                                                                       |
 | 13 | Husky Text-to-Image    | DreamBooth + LoRA to generate husky images            | Stable Diffusion, Hugging Face            | [Model](https://huggingface.co/YeBhoneLin10/husky_lora)                                 |
+| 14 | Airline Sentiment Analysis   | USA Airline Sentiment Analysis      | Traditional Textblob & VADER            | [Live Demo](https://airlines-sentiment-analysis-stezufdgmgeerux4u3n6sk.streamlit.app/)                               |
 
 ---
 
