@@ -47,7 +47,8 @@ Welcome to my portfolio! I’m passionate about solving real-world problems usin
 | 11 | SEA Weather + Traffic  | ML model for heatwave forecasting & congestion        | Python, Streamlit, ML                     | [Live Demo](https://myanmar-weather-forecasting.streamlit.app/)                                                                                     |
 | 12 | Karachi Weather Prediction | ML for weather forecasting in Karachi               | Python, ML, Streamlit                     | [Link](https://github.com/OmdenaAI/karachi-pakistan-weather-prediction)                                                                                       |
 | 13 | Husky Text-to-Image    | DreamBooth + LoRA to generate husky images            | Stable Diffusion, Hugging Face            | [Model](https://huggingface.co/YeBhoneLin10/husky_lora)                                 |
-| 14 | Airline Sentiment Analysis   | USA Airline Sentiment Analysis      | Traditional Textblob & VADER            | [Live Demo](https://airlines-sentiment-analysis-stezufdgmgeerux4u3n6sk.streamlit.app/)  ![Uploading image.png…]()
+| 14 | Airline Sentiment Analysis   | USA Airline Sentiment Analysis      | Traditional Textblob & VADER            | ![image](https://github.com/user-attachments/assets/44c910a1-c9b8-4001-b0ae-e8bfead1c389)
+
                              |
 
 ---
