@@ -4,6 +4,13 @@ Welcome to my portfolio! I’m passionate about solving real-world problems usin
 
 ---
 
+## 👨‍💻 About Me
+
+- Former AI Engineer at **Simbolo** and **SimboloAI**  
+- AI Instructor at **Grace Analytics**  
+- AI Developer at **SwamArr Electronics**
+
+---
 ## 🏆 Achievements
 
 - 🥈 **1st Runner-Up** – Samsung AI Innovation Campus Hackathon 2024  
