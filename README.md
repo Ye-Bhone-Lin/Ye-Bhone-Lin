@@ -1,4 +1,4 @@
-# Hello! I'm Ye Bhone Lin – AI Engineer from Myanmar
+![image](https://github.com/user-attachments/assets/76b5af01-47d0-4d14-ab2b-7e3a33099ddd)# Hello! I'm Ye Bhone Lin – AI Engineer from Myanmar
 
 Welcome to my portfolio! I’m passionate about solving real-world problems using AI — especially in **Natural Language Processing**, **Computer Vision**, and **Speech Recognition**.
 
@@ -37,9 +37,11 @@ Welcome to my portfolio! I’m passionate about solving real-world problems usin
 | 2  | Simbolo Student Assistant | Student info assistant using Streamlit + RAG      | Streamlit, Elasticsearch, Groq            | [Live Demo](https://kkxtgvxcmmdjjsfwenyxgp.streamlit.app)                               |
 | 3  | Myanmar Weather News   | Burmese weather + earthquake updates                 | Streamlit, LangChain, Groq, Folium        | [Live](https://myanmar-weather-news.streamlit.app)                                     |
 | 4  | Burmese OCR            | OCR model for Burmese printed text                    | Deep Learning, OpenCV                      | —                                                                                       |
-| 5  | Telegram Bot Deployment| Telegram chatbot using RAG + LangChain                | LangChain, Railway, GROQ API               | @simbolo_bot in telegram and chatting with the bot                                                                                      |
+| 5  | Telegram Bot Deployment| Telegram chatbot using RAG + LangChain                | LangChain, Railway, GROQ API               | [Demo Photo](![image](https://github.com/user-attachments/assets/9a3f1efa-d2bf-4fd6-b56b-b48aec65534c)
+)@simbolo_bot in telegram and chatting with the bot                                                                                      |
 | 6  | Discord PDF Assistant  | Discord bot for summarizing & Q&A on PDFs             | Python, LangChain                         | [Invite Bot](https://discord.com/oauth2/authorize?client_id=1358443923802030190)         |
-| 7  | Repair Cost Estimation | Car damage detection with cost estimation             | YOLO, Streamlit                           | [Workflow](https://github.com/Ye-Bhone-Lin/Repair_Cost_Estimation_Based_On_Car_Damage)                                                                                       |
+| 7  | Repair Cost Estimation | Car damage detection with cost estimation             | YOLO, Streamlit                           | [Workflow](https://github.com/Ye-Bhone-Lin/Repair_Cost_Estimation_Based_On_Car_Damage) [Demo Photo](![image](https://github.com/user-attachments/assets/33fccb1d-5af7-4d8e-9d0e-c927f400f143)
+)                                                                                      |
 | 8  | Roman ↔ Burmese Tool   | Converts Burmese text to Roman & vice versa           | Python, Unicode, Syllable Tokenization    | —                                                                                       |
 | 9  | AKyanPay AI Backend    | Educational APIs for quizzes, chat, code testing      | FastAPI, LangChain, Groq                  | [Live Demo](https://akyanpay.vercel.app/)                                                                      |
 | 10 | Hotel Booking System   | Query hotel database using natural language           | PostgreSQL, FastAPI, LangChain            | [Live Demo](https://glittery-klepon-5051b1.netlify.app/)                                           |
