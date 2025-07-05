@@ -49,8 +49,6 @@ Welcome to my portfolio! I’m passionate about solving real-world problems usin
 | 13 | Husky Text-to-Image    | DreamBooth + LoRA to generate husky images            | Stable Diffusion, Hugging Face            | [Model](https://huggingface.co/YeBhoneLin10/husky_lora)                                 |
 | 14 | Airline Sentiment Analysis   | USA Airline Sentiment Analysis      | Traditional Textblob & VADER            | ![image](https://github.com/user-attachments/assets/44c910a1-c9b8-4001-b0ae-e8bfead1c389)
 
-                             |
-
 ---
 
 > **“Building Myanmar’s AI future — one model at a time.”**
