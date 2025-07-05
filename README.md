@@ -1,6 +1,6 @@
 # Hello! I'm Ye Bhone Lin – AI Engineer from Myanmar
 
-Welcome to my portfolio! I’m passionate about solving real-world problems using AI — especially in **Natural Language Processing**, **Computer Vision**, and **Speech Recognition**.
+I’m passionate about solving real-world problems using AI — especially in **Natural Language Processing**, **Computer Vision**, and **Speech Recognition**.
 
 ---
 
