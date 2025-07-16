@@ -25,13 +25,13 @@ I’m passionate about solving real-world problems using AI — especially in **
 
 ---
 
-## 🎤 Speaking Engagements
+## 🎤 Speaking Engagements and Training
 
 - **DevFast (GDG Yangon)** – *Gemma*  
 - **GURU Edu** – *How AI Agent Works*  
 - **Build Myanmar** – *The Future of AI*  
 - **CSO Academy & E-Learning Hub** – *How Can Civil Society Organizations Benefit From It*  
-
+- **Impact Hub 2024 (Youth Program) 2024 (She Innovates) 2025 (She Innovates) ** - *AI Trainer*
 ---
 
 ## 🚀 Project Showcase
