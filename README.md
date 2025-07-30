@@ -17,6 +17,7 @@ I’m passionate about solving real-world problems using AI — especially in **
 - 🥇 **Winner** – One Project One Week 2025  
 - 🌍 **Participant** – TraeAI IDE: Zero Limit Hackathon 2025 (International)  
 - 🌍 **Participant** – Raise Your Hack Hackathon 2025 (International)
+- 🌍 **Participant** – QLOO Hackathon 2025 (International)
 - Oracle Cloud Infrastructure 2025 Certified Generative AI Professional
 
 ![OCI25GAIOCP](https://github.com/user-attachments/assets/cc860d7d-cd93-4868-a7d5-96110867ea4d)
