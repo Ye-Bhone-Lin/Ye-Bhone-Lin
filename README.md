@@ -34,6 +34,8 @@ I’m passionate about solving real-world problems using AI — especially in **
 - **CSO Academy & E-Learning Hub** – *How Can Civil Society Organizations Benefit From It*  
 - **CSO Academy & E-Learning Hub** – *AI Special Webinar*  
 - **Impact Hub 2024 (Youth Program) 2024 (She Innovates) 2025 (She Innovates)** - *AI Trainer*
+- **အနာဂတ်နဲ့ချိတ်ဆက် (Youth Speak Forum) 2025 by AIESEC** - Moderator
+- **Future of AI and Your Career 2025 by Brilliance** - Speaker
 ---
 
 ## 🚀 Project Showcase
