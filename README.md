@@ -1,3 +1,6 @@
+
+
+
 # Hello! I'm Ye Bhone Lin – AI Engineer from Myanmar
 
 I’m passionate about solving real-world problems using AI — especially in **Natural Language Processing**, **Computer Vision**, and **Speech Recognition**.
@@ -22,7 +25,7 @@ I’m passionate about solving real-world problems using AI — especially in **
 
 ![OCI25GAIOCP](https://github.com/user-attachments/assets/cc860d7d-cd93-4868-a7d5-96110867ea4d)
 
-![Uploading -2c22.png…]((https://www.virtualbadge.io/certificate-validator?credential=725114da-23f5-47d9-9dd9-ea03c4d92c22))
+<img width="2856" height="2856" alt="-2c22" src="https://github.com/user-attachments/assets/58c3dadb-1c48-4c35-baa7-b9ff7fa5db46" />((https://www.virtualbadge.io/certificate-validator?credential=725114da-23f5-47d9-9dd9-ea03c4d92c22))
 
 
 ---
