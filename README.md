@@ -10,7 +10,6 @@ I’m passionate about solving real-world problems using AI — especially in **
 ## 👨‍💻 About Me
 
 - Former AI Engineer at **Simbolo** and **SimboloAI**  
-- AI Instructor at **Grace Analytics**  
 - AI Developer at **SwamArr Electronics**
 
 ---
