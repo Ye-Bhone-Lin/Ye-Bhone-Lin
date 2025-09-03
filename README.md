@@ -45,7 +45,7 @@ I’m passionate about solving real-world problems using AI — especially in **
 
 | #  | Project Name            | Description                                         | Technologies                              | Links                                                                                   |
 |----|------------------------|-----------------------------------------------------|-------------------------------------------|-----------------------------------------------------------------------------------------|
-| 1  | GitGuard AI            | IDE plugin to prevent API key leaks using LLMs      | Python, Hugging Face, LangChain, NovitaAI| [Demo](https://v0-gitguard-ai-landing-page.vercel.app/) / [Try Beta](https://www.youtube.com/watch?v=uS048Hjot6c)                 |
+| 1  | GitGuard AI            | IDE plugin to prevent API key leaks using LLMs      | Python, Hugging Face, LangChain, NovitaAI, MCP, AI Agents| [Demo](https://v0-gitguard-ai-landing-page.vercel.app/) / [Try Beta](https://www.youtube.com/watch?v=uS048Hjot6c)                 |
 | 2  | Simbolo Student Assistant | Student info assistant using Streamlit + RAG      | Streamlit, Elasticsearch, Groq            | [Project Demo](https://kkxtgvxcmmdjjsfwenyxgp.streamlit.app)                               |
 | 3  | Myanmar Weather News   | Burmese weather + earthquake updates                 | Streamlit, LangChain, Groq, Folium        | [Project](https://myanmar-weather-news.streamlit.app)                                     |
 | 4  | Burmese OCR            | OCR model for Burmese printed text                    | Deep Learning, OpenCV                      | —                                                                                       |
