@@ -11,6 +11,7 @@ I’m passionate about solving real-world problems using AI — especially in **
 
 - Former AI Engineer at **Simbolo** and **SimboloAI**  
 - AI Developer at **SwamArr Electronics**
+- AI Researcher at **Language Understanding Laboratory**
 
 ---
 ## 🏆 Achievements
