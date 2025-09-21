@@ -63,7 +63,7 @@ I’m passionate about solving real-world problems using AI — especially in **
 | 14 | Airline Sentiment Analysis   | USA Airline Sentiment Analysis      | Traditional Textblob & VADER            | ![image](https://github.com/user-attachments/assets/44c910a1-c9b8-4001-b0ae-e8bfead1c389)
 | 15 | Donatio   |  A transparent donation platform      | SQL Chatbot with Langchain, Extract the Amount of Doantion from Images            | [Project Link](https://www.linkedin.com/posts/khantthitoo_donatio-oneprojectonemonth-webdevelopment-activity-7357792934341005313-M8K5?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEFYNtkB60SuLgw4L7sHCkn8H1cZVNq-17U)
 | 16 | AI Trip Planner   |  AI Trip Planner for Myanmar      | Langgraph and AI Agents         | [Project Demo](https://ezee-trip.vercel.app/)
-| 17 | Myanmar-Cultural-Heritage-Q-A-System  |  Answer questions about Myanmar's cultural heritage     | FastAPI, Groq API, FAISS, Sentence Transformers, Streamlit FAISS index, Docker   | [Project Link](https://github.com/Ye-Bhone-Lin/Myanmar-Cultural-Heritage-Q-A-System))
+| 17 | Myanmar-Cultural-Heritage-Q-A-System  |  Answer questions about Myanmar's cultural heritage     | FastAPI, Groq API, FAISS, Sentence Transformers, Streamlit FAISS index, Docker   | [Project Link](https://github.com/Ye-Bhone-Lin/Myanmar-Cultural-Heritage-Q-A-System)
 ---
 
 > **“Building Myanmar’s AI future — one model at a time.”**
