@@ -67,7 +67,6 @@ I’m passionate about solving real-world problems using AI — especially in **
 Frontend: Streamlit
 Data/Storage: Local FAISS index
 Deployment: Docker         | [Project Link]([https://ezee-trip.vercel.app/](https://github.com/Ye-Bhone-Lin/Myanmar-Cultural-Heritage-Q-A-System))
-
 ---
 
 > **“Building Myanmar’s AI future — one model at a time.”**
