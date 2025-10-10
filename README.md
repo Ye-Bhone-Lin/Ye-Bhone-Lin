@@ -17,7 +17,8 @@ I’m passionate about solving real-world problems using AI — especially in **
 ## 🏆 Achievements
 
 - 🥈 **1st Runner-Up** – Samsung AI Innovation Campus Hackathon 2024  
-- 🥇 **Winner** – One Project One Week 2025  
+- 🥇 **Winner** – One Project One Week Hackathon 2025
+- 🥇 **Winner** – Myanmar Python Hackathon 2025 
 - 🌍 **Participant** – TraeAI IDE: Zero Limit Hackathon 2025 (International)  
 - 🌍 **Participant** – Raise Your Hack Hackathon 2025 (International)
 - 🌍 **Participant** – QLOO Hackathon 2025 (International)
