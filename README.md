@@ -1,7 +1,7 @@
 
 
 
-# Hello! I'm Ye Bhone Lin – AI Engineer from Myanmar
+# Hello! I'm Ye Bhone Lin – AI Engineer
 
 I’m passionate about solving real-world problems using AI — especially in **Natural Language Processing**, **Computer Vision**, and **Speech Recognition**.
 
@@ -28,6 +28,9 @@ I’m passionate about solving real-world problems using AI — especially in **
 
 <img width="256" height="256" alt="-2c22" src="https://github.com/user-attachments/assets/58c3dadb-1c48-4c35-baa7-b9ff7fa5db46" />
 
+## Publications Paper
+
+- [Accepted iSAI-NLP2025] ASR Error Correction in Low-Resource Burmese with Alignment-Enhanced Transformers using Phonetic Features
 
 ---
 
