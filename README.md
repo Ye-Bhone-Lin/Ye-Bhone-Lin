@@ -31,8 +31,7 @@ I’m passionate about solving real-world problems using AI — especially in **
 
 ## Publications Paper
 
-- [Accepted iSAI-NLP2025] ASR Error Correction in Low-Resource Burmese with Alignment-Enhanced Transformers using Phonetic Features
-
+- **[Accepted iSAI-NLP2025]** [ASR Error Correction in Low-Resource Burmese with Alignment-Enhanced Transformers using Phonetic Features](https://arxiv.org/abs/2511.21088)
 ---
 
 ## 🎤 Speaking Engagements and Training
