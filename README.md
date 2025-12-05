@@ -29,9 +29,6 @@ I’m passionate about solving real-world problems using AI — especially in **
 
 <img width="256" height="256" alt="-2c22" src="https://github.com/user-attachments/assets/58c3dadb-1c48-4c35-baa7-b9ff7fa5db46" />
 
-## Publications Paper
-
-- **[Accepted iSAI-NLP2025]** [ASR Error Correction in Low-Resource Burmese with Alignment-Enhanced Transformers using Phonetic Features](https://arxiv.org/abs/2511.21088)
 ---
 
 ## 🎤 Speaking Engagements and Training
