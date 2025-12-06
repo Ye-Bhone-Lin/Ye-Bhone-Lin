@@ -1,12 +1,12 @@
 
 
 
-# Here! 
+## Here! 
 I’m passionate about solving real-world problems using AI — especially in **Natural Language Processing**, **Computer Vision**, and **Speech Recognition**.
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
 - Former AI Engineer at **Simbolo** and **SimboloAI**  
 - AI Developer at **SwamArr Electronics**
@@ -30,7 +30,7 @@ I’m passionate about solving real-world problems using AI — especially in **
 
 ---
 
-## 🎤 Speaking Engagements and Training
+## Speaking Engagements and Training
 
 - **DevFast (GDG Yangon)** – *Gemma*  
 - **GURU Edu** – *How AI Agent Works*  
@@ -42,7 +42,7 @@ I’m passionate about solving real-world problems using AI — especially in **
 - **Future of AI and Your Career 2025 by Brilliance** - Speaker
 ---
 
-## 🚀 Project Showcase
+## Project Showcase
 
 | #  | Project Name            | Description                                         | Technologies                              | Links                                                                                   |
 |----|------------------------|-----------------------------------------------------|-------------------------------------------|-----------------------------------------------------------------------------------------|
