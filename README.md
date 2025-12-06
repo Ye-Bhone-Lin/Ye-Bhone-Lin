@@ -1,7 +1,7 @@
 
 
 
-# Hello! I'm Ye Bhone Lin – AI Engineer
+# Hello! I'm Ye Bhone Lin 
 
 I’m passionate about solving real-world problems using AI — especially in **Natural Language Processing**, **Computer Vision**, and **Speech Recognition**.
 
