@@ -1,6 +1,3 @@
-
-
-
 ## Here! 
 I’m passionate about solving real-world problems using AI — especially in **Natural Language Processing**, **Computer Vision**, and **Speech Recognition**.
 ---
@@ -10,8 +7,6 @@ I’m passionate about solving real-world problems using AI — especially in **
 - Former AI Engineer at **Simbolo** and **SimboloAI**  
 - AI Developer at **SwamArr Electronics**
 - AI Researcher at **Language Understanding Laboratory**
-
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31amjjhaek2vabdwselbco5fq4su&cover_image=true&theme=spotify-embed&show_offline=true&background_color=121212&interchange=false&profanity=false&mode=dark&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=31amjjhaek2vabdwselbco5fq4su&redirect=true)
 
 ---
 ## 🏆 Achievements
@@ -68,5 +63,7 @@ I’m passionate about solving real-world problems using AI — especially in **
 ---
 
 > **“Building Myanmar’s AI future — one model at a time.”**
+>
+> [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31amjjhaek2vabdwselbco5fq4su&cover_image=true&theme=spotify-embed&show_offline=true&background_color=121212&interchange=false&profanity=false&mode=dark&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=31amjjhaek2vabdwselbco5fq4su&redirect=true)
 
 📧 [LinkedIn](https://www.linkedin.com/in/ye-bhone-lin-ai/) • ✍️ [Medium Blog](https://medium.com/@yebhonelin10) • 📧 yebhonelin10@gmail.com
