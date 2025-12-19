@@ -3,7 +3,6 @@
 
 ## Here! 
 I’m passionate about solving real-world problems using AI — especially in **Natural Language Processing**, **Computer Vision**, and **Speech Recognition**.
-
 ---
 
 ## About Me
@@ -65,6 +64,8 @@ I’m passionate about solving real-world problems using AI — especially in **
 | 16 | AI Trip Planner   |  AI Trip Planner for Myanmar      | Langgraph and AI Agents         | [Project Demo](https://ezee-trip.vercel.app/)
 | 17 | Myanmar-Cultural-Heritage-Q-A-System  |  Answer questions about Myanmar's cultural heritage     | FastAPI, Groq API, FAISS, Sentence Transformers, Streamlit FAISS index, Docker   | [Project Link](https://github.com/Ye-Bhone-Lin/Myanmar-Cultural-Heritage-Q-A-System)
 ---
+
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31amjjhaek2vabdwselbco5fq4su&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false)](https://github.com/kittinan/spotify-github-profile)
 
 > **“Building Myanmar’s AI future — one model at a time.”**
 
