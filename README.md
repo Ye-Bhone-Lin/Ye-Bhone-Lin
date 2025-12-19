@@ -65,7 +65,7 @@ I’m passionate about solving real-world problems using AI — especially in **
 | 17 | Myanmar-Cultural-Heritage-Q-A-System  |  Answer questions about Myanmar's cultural heritage     | FastAPI, Groq API, FAISS, Sentence Transformers, Streamlit FAISS index, Docker   | [Project Link](https://github.com/Ye-Bhone-Lin/Myanmar-Cultural-Heritage-Q-A-System)
 ---
 
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31amjjhaek2vabdwselbco5fq4su&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false)](https://github.com/kittinan/spotify-github-profile)
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31amjjhaek2vabdwselbco5fq4su&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=false&profanity=false&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=31amjjhaek2vabdwselbco5fq4su&redirect=true)
 
 > **“Building Myanmar’s AI future — one model at a time.”**
 
