@@ -40,4 +40,5 @@ My journey revolves around understanding how machines can perceive, learn, reaso
 - **Future of AI and Your Career 2025 by Brilliance** - Speaker
 ---
 
-📧 [LinkedIn](https://www.linkedin.com/in/ye-bhone-lin-ai/) • ✍️ [Medium Blog](https://medium.com/@yebhonelin10) • 📧 yebhonelin10@gmail.com
+### Contact me via
+[LinkedIn](https://www.linkedin.com/in/ye-bhone-lin-ai/) • [Medium Blog](https://medium.com/@yebhonelin10) • yebhonelin10@gmail.com
