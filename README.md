@@ -1,11 +1,15 @@
 ## Hi There! 
-I’m passionate about solving real-world problems using AI — especially in **Natural Language Processing**, **Computer Vision**, and **Speech Recognition**.
+🎓 **Computer Engineering Student**  
+📍 King Mongkut's University of Technology Thonburi (KMUTT)
+
+My journey revolves around understanding how machines can perceive, learn, reason, and communicate. From Large Language Models and Generative AI to Natural Language Processing, Speech Technologies, and Computer Vision, I explore the possibilities of AI and transform ideas into practical solutions.
+
 ---
 
 ## About Me
 
-- Former AI Engineer at **Simbolo** and **SimboloAI**  
-- AI Developer at **SwamArr Electronics**
+- Ex-AI Engineer at **Simbolo** and **SimboloAI**  
+- Ex-AI Developer at **SwamArr Electronics**
 - AI Researcher at **Language Understanding Laboratory**
 
 ---
