@@ -28,6 +28,16 @@ My journey revolves around understanding how machines can perceive, learn, reaso
 - AI for Fellowship 2026 - Participant
 ---
 
+## Conferences 
+
+- Ye Bhone Lin*, Thura Aung*, Ye Kyaw Thu, and Thazin Myint Oo, “ASR Error Correction in
+Low-Resource Burmese with Alignment-Enhanced Transformers using Phonetic Features,”
+Proceedings of the 20th IEEE iSAI-NLP AIoT 2025 [(Link)](https://ieeexplore.ieee.org/document/11320540?denied=)
+
+- Ye Kyaw Thu, Ye Bhone Lin*, Thura Aung*, Min Thiha Tun, Htet Arkar, Myat Oo Swe, Thet Htet San, Thazin Myint Oo, Thepchai Supnithi, “myMedi-Whisper: Construction of Burmese Medical Speech Corpus and Whisper Fine-Tuning for Clinical Dialogue ASR,” International Conference on Natural Language and Speech Processing (ICNLSP), 2026.
+
+---
+
 ## Speaking Engagements and Training
 
 - **DevFast (GDG Yangon)** – *Gemma*  
