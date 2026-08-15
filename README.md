@@ -15,16 +15,17 @@ My journey revolves around understanding how machines can perceive, learn, reaso
 ---
 ## 🏆 Achievements
 
+<img align="right" width="120" height="150" src="https://github.com/user-attachments/assets/58c3dadb-1c48-4c35-baa7-b9ff7fa5db46" />
+
+<img align="right" width="250" height="150" src="https://github.com/user-attachments/assets/cc860d7d-cd93-4868-a7d5-96110867ea4d" />
+
 - 🥈 **1st Runner-Up** – Samsung AI Innovation Campus Hackathon 2024  
 - 🥈 **1st Runner-Up** – Code2Career Hackathon 2025  
 - 🥇 **Winner** – One Project One Week Hackathon 2025
 - 🥇 **Winner** – Myanmar Python Hackathon 2025 
 - Oracle Cloud Infrastructure 2025 Certified Generative AI Professional
-- 2025 Quantum Program from The Washington Institute for STEM, Entrepreneurship and Research! 
-![OCI25GAIOCP](https://github.com/user-attachments/assets/cc860d7d-cd93-4868-a7d5-96110867ea4d)
-
-<img width="256" height="256" alt="-2c22" src="https://github.com/user-attachments/assets/58c3dadb-1c48-4c35-baa7-b9ff7fa5db46" />
-
+- 2025 Quantum Program from The Washington Institute for STEM, Entrepreneurship and Research!
+- AI for Fellowship 2026 - Participant
 ---
 
 ## Speaking Engagements and Training
